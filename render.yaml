@@ -1,6 +1,6 @@
 services:
   - type: worker
-    region: ohio
+    region: virginia
     name: render-subnet-router
     env: docker
     autoDeploy: false
